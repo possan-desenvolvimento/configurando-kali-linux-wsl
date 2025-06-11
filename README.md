@@ -37,3 +37,13 @@ Este repositório contém as etapas que segui para instalar e usar o **Kali Linu
 ---
 
 ## 🚀 Etapas seguidas acima foram feitas através de acompanhamento do vídeo: https://www.youtube.com/watch?v=2D_pQYQig2s
+
+---
+
+## 🚀 Procedimento para fazer todas as vezes que eu desligar, ou reiniciar meu computador. 
+
+### 1 ➡️ Abrir o terminal do Windows. 
+
+### 2 ➡️ Rodar o seguinte comando (wsl -d kali-linux), ele dará inicio ao kali-linux. 
+
+### 3 ➡️ Rodar o seguinte comando (sudo service xrdp start), ele irá startar kali-linux, possibilitando de abrir ele dentro da minha conexão remota. 
