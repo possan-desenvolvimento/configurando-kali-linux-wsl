@@ -33,3 +33,7 @@ Este repositório contém as etapas que segui para instalar e usar o **Kali Linu
 ### 4 ➡️ Rodar o seguinte comando (service xrdp start), ele irá startar minha interface gráfica. 
 
 ### 5 ➡️ Rodar o seguinte comando (ifconfig), verificar o IP que minha interface gráfica está utilizando. 
+
+---
+
+## 🚀 Etapas seguidas acima tiradas do vídeo: https://www.youtube.com/watch?v=2D_pQYQig2s
