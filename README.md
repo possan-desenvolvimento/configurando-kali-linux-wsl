@@ -36,4 +36,4 @@ Este repositório contém as etapas que segui para instalar e usar o **Kali Linu
 
 ---
 
-## 🚀 Etapas seguidas acima tiradas do vídeo: https://www.youtube.com/watch?v=2D_pQYQig2s
+## 🚀 Etapas seguidas acima foram feitas através de acompanhamento do vídeo: https://www.youtube.com/watch?v=2D_pQYQig2s
